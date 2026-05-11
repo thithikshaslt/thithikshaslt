@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi, I am Thithiksha! 
-Currently pursuing 4th year of Software Systems, PSGCT.
+Currently pursuing 5th year of Software Systems, PSGCT.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thithiksha-sl-424b75281/) 
